@@ -1,4 +1,4 @@
-# react-native-insta-story
+# react-native-teesta-story
 
 <p align="center">
 <img src="./images/example.gif" height="500" />
@@ -9,13 +9,13 @@
 #### 1. Step
 
 ```javascript
-npm install react-native-insta-story --save
+npm install react-native-teesta-story --save
 ```
 
 or
 
 ```javascript
-yarn add react-native-insta-story
+yarn add react-native-teesta-story
 ```
 
 #### 2. Step
@@ -27,7 +27,7 @@ cd ios && pod install
 ## Import
 
 ```javascript
-import InstaStory from 'react-native-insta-story';
+import InstaStory from 'react-native-teesta-story';
 ```
 
 ## Props
